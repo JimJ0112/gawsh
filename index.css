@@ -11,7 +11,8 @@ width: 100%;
 height: 100%;
 }
 
-table,tr{margin-top: 6%; width:100px; height:100px;}
+td{ width: 100px;
+height: 100px;}
 
 body{
 	background-image: Url("Images/bg.jpg");
