@@ -1,6 +1,6 @@
 .viewable{border: 1px solid black;
-width: 100px;
-height: 100px;
+width: 30px;
+height: 30px;
 align-self: center;
 background-color: purple;}
 
@@ -17,7 +17,8 @@ body{
 	background-attachment: fixed;
 }
 
-img{height: 100%;
+img{
+height: 100%;
 width: 100%;}
 
 .card{
